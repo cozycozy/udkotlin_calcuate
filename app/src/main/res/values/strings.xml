@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CalculateTraining</string>
+    <string name="maintext">問題数を選択して「スタート」ボタンを押してください</string>
+</resources>
