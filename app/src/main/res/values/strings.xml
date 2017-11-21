@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">CalculateTraining</string>
     <string name="maintext">問題数を選択して「スタート」ボタンを押してください</string>
+    <!-- 選択肢を入れる-->
+    <string-array name="nuber_of_question">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+    </string-array>
 </resources>
