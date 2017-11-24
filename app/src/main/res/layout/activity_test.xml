@@ -97,7 +97,7 @@
         app:layout_constraintTop_toBottomOf="@+id/tableLayout">
 
         <TextView
-            android:id="@+id/TextViewleft"
+            android:id="@+id/textViewleft"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:layout_weight="2"
@@ -117,7 +117,7 @@
             android:textSize="30sp" />
 
         <TextView
-            android:id="@+id/TextViewRight"
+            android:id="@+id/textViewRight"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:layout_weight="2"
@@ -136,7 +136,7 @@
             android:textSize="30sp" />
 
         <TextView
-            android:id="@+id/TextViewAnswer"
+            android:id="@+id/textViewAnswer"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="3"
